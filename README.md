@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Joseph. I work in computer vision, deep learning and robotics, with a general interest in software development.
+I'm Joseph. I work in computer vision, deep learning, and robotics, with a general enthusiasm for software development.
 
 🔭 I’m currently working on [my website](https://github.com/jspsv/website).
 
